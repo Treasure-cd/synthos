@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Synthos.Api/Synthos.Api.csproj" />
+    <Project Path="src/Synthos.Core/Synthos.Core.csproj" />
+    <Project Path="src/Synthos.Infrastructure/Synthos.Infrastructure.csproj" />
+  </Folder>
+</Solution>
